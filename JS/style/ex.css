@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.mailClass {
+    display: flex;
+    border: 1px solid red;
+}
+.mailClass > div {
+    margin: 0 10px;
+    border: 1px solid black;
+}
+.b, .c, .d, .e, .f, .g {
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    background-color: red;
+    border: 1px solid blue;
+}
